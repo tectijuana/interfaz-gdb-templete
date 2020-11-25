@@ -1,3 +1,4 @@
+
 # El depurador GNU (gdb),
 ## es una herramienta muy útil. Aquí les voy a mostrar una o dos de sus características.
 
@@ -85,4 +86,13 @@ Si avanzamos una vez más, llegamos a esta posición.
 Ahora estamos casi al final del programa, r1 ya no es igual a 4 y, por lo tanto, la última instrucción "cmp" ha provocado que la bandera de cero no esté establecida.
 
 Ese es el final de este breve vistazo a **gdb**.
+
+
+# ✍️ Rúbrica ✍️
+| Ponderación 	| Rubrica                                                                                                                                	|
+|-------------	|----------------------------------------------------------------------------------------------------------------------------------------	|
+| 50%         	| Entrega los programas .S del readme y los que sometió a evaluación a DGB a un directorio "código" para darle orden a su repositorio.   	|
+| 30%         	| Modifica el README.md a presentando la AFIRMACIÓN de los programas  que realizó, acompañados de "screenshots"                          	|
+| 20%         	| Compila un programa de CPP a ejecutable, este lo DESENSAMBLA en DGB (u otro medio también es posible) obteniendo el código fuente (.S) 	|
+
 
