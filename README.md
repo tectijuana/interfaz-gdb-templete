@@ -93,6 +93,7 @@ Ese es el final de este breve vistazo a **gdb**.
 |-------------	|----------------------------------------------------------------------------------------------------------------------------------------	|
 | 50%         	| Entrega los programas .S del readme y los que sometió a evaluación a DGB a un directorio "código" para darle orden a su repositorio.   	|
 | 30%         	| Modifica el README.md a presentando la AFIRMACIÓN de los programas  que realizó, acompañados de "screenshots"                          	|
-| 20%         	| Compila un programa de CPP a ejecutable, este lo DESENSAMBLA en DGB (u otro medio también es posible) obteniendo el código fuente (.S) 	|
+| 10%         	| Compila un programa de CPP a ejecutable, este lo DESENSAMBLA en DGB (u otro medio también es posible) obteniendo el código fuente (.S) 	|
+| 10%         	| Código fuente (.S) tiene un encabezado las generales del programador                                                                  	|
 
 
